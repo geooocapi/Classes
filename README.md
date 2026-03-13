@@ -4,5 +4,5 @@
 Lição de Programação Orientada a Objetos (POO) proposta para a prática de criação de classes e inserção de métodos.
 
 ## Autora
-Geovana Capizani
+Geovana Capizani Torres.
 
